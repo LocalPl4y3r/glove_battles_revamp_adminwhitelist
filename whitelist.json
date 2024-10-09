@@ -1,4 +1,1 @@
-[
-  "localpl4y3r";
-localplayer = true
-]
+workspace.Gravity = 192
