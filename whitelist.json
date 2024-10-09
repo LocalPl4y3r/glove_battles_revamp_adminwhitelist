@@ -1,2 +1,2 @@
 local rand = math.random(1, 2500000000000000)
-workspace.Gravity = rand
+return rand
